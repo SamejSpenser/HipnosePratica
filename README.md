@@ -347,6 +347,12 @@ Para publicar uma postagem por e-mail, é bem simples: salve em sua agenda de co
 
 - A ignorância ou má interpretação das regras não justifica a falta do seu cumprimento, nem isenta o(s) membro(s) das sanções nelas estabelecidas.
 
+<p>&nbsp;</p>
+
+<!-- SEPARADOR -->
+
+<p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
+
 <!-- LINKS -->
 
 [1]: #ii---perfil-falso-fake
