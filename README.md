@@ -4,7 +4,7 @@
 
 <div align="center">
   <figure align="center">
-    <img width="100%" height="auto" alt="LOGOTIPO DO GRUPO HIPNOSE PRÁTICA: “Hipnose Prática, compartilhando conhecimento”" src="http://i.imgur.com/9ExMSDM.jpg">
+    <img width="100%" height="auto" alt="LOGOTIPO DO GRUPO HIPNOSE PRÁTICA: “Hipnose Prática, compartilhando conhecimento”" src="https://github.com/SamejSpenser/HPnews/blob/master/images/logo-hp-landscape-3892x1440px.png">
   </figure>
 </div>
 
@@ -112,7 +112,7 @@ Atenciosamente,
 
 <div align="center">
   <figure align="center">
-    <img width="100%" height="auto" alt="SCREENSHOT: menu eventos e botão para criar novo evento." src="http://i.imgur.com/UMxWeFX.png">
+    <img width="100%" height="auto" alt="SCREENSHOT: menu eventos e botão para criar novo evento." src="https://github.com/SamejSpenser/HPnews/blob/master/images/regras-hp-001.png">
     <figcaption><small>Menu <code>Eventos</code> [1] e botão <code>+ Criar evento</code> [2].</small></figcaption>
   </figure>
 </div>
@@ -167,7 +167,7 @@ Atenciosamente,
 
 <div align="center">
   <figure align="center">
-    <img width="100%" height="auto" alt="SCREENSHOT: caixa de buscas do grupo." src="http://i.imgur.com/zpKXwNt.png">
+    <img width="100%" height="auto" alt="SCREENSHOT: caixa de buscas do grupo." src="https://github.com/SamejSpenser/HPnews/blob/master/images/regras-hp-002.png">
     <figcaption><small>[3] Caixa de buscas e pesquisa no mural do grupo.</small></figcaption>
   </figure>
 </div>
