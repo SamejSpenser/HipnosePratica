@@ -40,6 +40,7 @@
 - [POSTAGENS POR E-MAIL](#postagens-por-e-mail)
 - [COMENTÁRIOS POR E-MAIL](#comentários-por-e-mail)
 - [OBSERVAÇÕES](#observações)
+- [NOTAS](#notas)
 
 <!-- /MarkdownTOC -->
 
@@ -59,7 +60,7 @@ Grupo de estudiosos e profissionais que se interessam pela Hipnose.
 <a name="importante"></a>
 ### IMPORTANTE
 
-Ao solicitar participação no grupo Hipnose Prática, seu perfil será pré-avaliado por um dos administradores. O que buscamos são pessoas “de verdade”, logo, se o seu perfil não tiver e/ou não exibir um mínimo de informação sobre você, esse perfil será considerado “fake”[^1] e a solicitação será rejeitada (conforme o [*§*3 da Seção II][1]).
+Ao solicitar participação no grupo Hipnose Prática, seu perfil será pré-avaliado por um dos administradores. O que buscamos são pessoas “de verdade”, logo, se o seu perfil não tiver e/ou não exibir um mínimo de informação sobre você, esse perfil será considerado “fake”<sup id="ftnRet1">[1](#ftn1)</sup> e a solicitação será rejeitada (conforme o [*§*3 da Seção II][1]).
 
 É de bom tom que sua localização (cidade, estado/província) seja exibida, um resumo sobre você mesmo e de preferência, profissão e escolaridade (independente de quais sejam).
 
@@ -367,7 +368,10 @@ Para publicar uma postagem por e-mail, é bem simples: salve em sua agenda de co
 
 <!-- NOTAS DE FIM -->
 
-[^1]: **FAKE:** *falso*.
+<a name="notas"></a>
+## NOTAS
+
+<sup id="ftn1"><strong>1</strong></sup> **FAKE:** *falso*. [↩](#ftnRet1)
 
 <p>&nbsp;</p>
 
