@@ -1,13 +1,3 @@
----
-Title:   Regras do Grupo Hipnose Prática  
-Author:  Samej Spenser  
-Date:    June 17, 2012  
-Update:  September 17, 2016  
-Email:   hpratica@gmail.com  
-Comment: Descrição, Regras e Instruções para a boa convivência do/no grupo Hipnose Prática.  
-
----
-
 <!-- REGRAS DO GRUPO HIPNOSE PRÁTICA ~ PUBLICADO EM 2012/06/17 ~ ATUALIZADO EM 2016/09/16 -->
 
 <!-- IMAGEM CENTRALIZADA -->
@@ -20,13 +10,9 @@ Comment: Descrição, Regras e Instruções para a boa convivência do/no grupo 
 
 <!-- SEPARADOR -->
 
-<div align="center">
-  <hr width="10%" style="align: center; background-color: transparent; border-top: 7px dotted; margin: 2.5em 0em;">
-</div>
+<p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
-<div align="center">
-  <h1 align="center">Regras do Grupo Hipnose Prática</h1>
-</div>
+# Regras do Grupo Hipnose Prática
 
 <p>&nbsp;</p>
 
@@ -59,9 +45,7 @@ Comment: Descrição, Regras e Instruções para a boa convivência do/no grupo 
 
 <!-- SEPARADOR -->
 
-<div align="center">
-  <hr width="10%" style="align: center; background-color: transparent; border-top: 7px dotted; margin: 2.5em 0em;">
-</div>
+<p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
 <a name="introdução"></a>
 ## INTRODUÇÃO
@@ -92,7 +76,9 @@ Publicações diversas em forma de comentário em qualquer outra publicação n�
 
 A finalidade deste grupo é a disseminação do conhecimento da Hipnose ao público, — entenda-se *“interessado(s)”* —, respeitando opiniões e posições diferentes, para o crescimento do todo, sem exclusivismo(s) e/ou estrelismo(s) de qualquer ordem.
 
-**LEMBREM-SE:** *“O mapa não é o território!”*
+<p>&nbsp;</p>
+
+> **LEMBREM-SE:** *“O mapa não é o território!”*
 
 <p>&nbsp;</p>
 
@@ -114,9 +100,7 @@ Atenciosamente,
 
 <!-- SEPARADOR -->
 
-<div align="center">
-  <hr width="10%" style="align: center; background-color: transparent; border-top: 7px dotted; margin: 2.5em 0em;">
-</div>
+<p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
 <a name="regras-do-grupo-hipnose-prática"></a>
 ## REGRAS DO GRUPO HIPNOSE PRÁTICA
@@ -129,11 +113,11 @@ Atenciosamente,
 <div align="center">
   <figure align="center">
     <img width="100%" height="auto" alt="SCREENSHOT: menu eventos e botão para criar novo evento." src="http://i.imgur.com/UMxWeFX.png">
-    <figcaption><small>Menu <code>Eventos</code> (1) e botão <code>+ Criar evento</code> (2).</small></figcaption>
+    <figcaption><small>Menu <code>Eventos</code> [1] e botão <code>+ Criar evento</code> [2].</small></figcaption>
   </figure>
 </div>
 
-1. Quer divulgar um curso, workshop, palestra ou qualquer outro evento relacionado à HIPNOSE e/ou temas correlatos? Então utilize o menu EVENTOS (1), (no menu horizontal, ao lado do título do grupo, clique em `Eventos` [1] e em seguida, clique no botão `+ Criar evento` [2]);
+1. Quer divulgar um curso, workshop, palestra ou qualquer outro evento relacionado à HIPNOSE e/ou temas correlatos? Então utilize o menu EVENTOS \[1], — no menu horizontal, ao lado do título do grupo, clique em `Eventos` \[1] e em seguida, clique no botão `+ Criar evento` \[2];
 
 2. Qualquer publicidade/propaganda (*direta* ou *indireta*, *proposital* ou *não proposital*) publicada fora do local específico será deletada **SEM PRÉVIO AVISO**, e seu autor poderá ser notificado aberta e publicamente por um dos moderadores. Em caso de reincidência, o autor será banido do grupo. Caso o autor solicite participar do grupo novamente e publicar alguma publicidade/propaganda em local indevido, será banido e bloqueado permanentemente;
 
@@ -149,9 +133,7 @@ Atenciosamente,
 
 <!-- SEPARADOR -->
 
-<div align="center">
-  <hr width="10%" style="align: center; background-color: transparent; border-top: 7px dotted; margin: 2.5em 0em;">
-</div>
+<p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
 <a name="ii---perfil-falso-fake"></a>
 ### II - Perfil Falso (Fake)
@@ -165,9 +147,7 @@ Atenciosamente,
 
 <!-- SEPARADOR -->
 
-<div align="center">
-  <hr width="10%" style="align: center; background-color: transparent; border-top: 7px dotted; margin: 2.5em 0em;">
-</div>
+<p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
 <a name="iii---atenha-se-aos-assuntos-do-grupo"></a>
 ### III - Atenha-se aos Assuntos do Grupo
@@ -178,9 +158,7 @@ Atenciosamente,
 
 <!-- SEPARADOR -->
 
-<div align="center">
-  <hr width="10%" style="align: center; background-color: transparent; border-top: 7px dotted; margin: 2.5em 0em;">
-</div>
+<p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
 <a name="iv---postagemns-e-comentários"></a>
 ### IV - Postagem(ns) e Comentário(s)
@@ -190,13 +168,13 @@ Atenciosamente,
 <div align="center">
   <figure align="center">
     <img width="100%" height="auto" alt="SCREENSHOT: caixa de buscas do grupo." src="http://i.imgur.com/zpKXwNt.png">
-    <figcaption><small>(3) Caixa de buscas e pesquisa no mural do grupo.</small></figcaption>
+    <figcaption><small>[3] Caixa de buscas e pesquisa no mural do grupo.</small></figcaption>
   </figure>
 </div>
 
 1. Antes de publicar alguma postagem, procure nas postagens anteriores se o que você pretende postar já se encontra publicado;
 
-2. Acostume-se a utilizar o campo de busca [3], (localizado no canto direito do menu horizontal), clique na lupa e digite o(s) termo(s) de sua pesquisa. Desta forma, você pode encontrar postagens, publicações e comentários que estão “distantes”, lá embaixo no ~~limbo do~~ mural;
+2. Acostume-se a utilizar o campo de busca \[3], (localizado no canto direito do menu horizontal), clique na lupa e digite o(s) termo(s) de sua pesquisa. Desta forma, você pode encontrar postagens, publicações e comentários que estão “distantes”, lá embaixo no ~~limbo do~~ mural;
 
 3. Para “ressuscitar” uma postagem antiga, basta fazer qualquer comentário para que a mesma volte para o topo do/no mural;
 
@@ -210,9 +188,7 @@ Atenciosamente,
 
 <!-- SEPARADOR -->
 
-<div align="center">
-  <hr width="10%" style="align: center; background-color: transparent; border-top: 7px dotted; margin: 2.5em 0em;">
-</div>
+<p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
 <a name="v---postagem-“humorística”"></a>
 ### V - Postagem “Humorística”
@@ -221,9 +197,7 @@ Atenciosamente,
 
 <!-- SEPARADOR -->
 
-<div align="center">
-  <hr width="10%" style="align: center; background-color: transparent; border-top: 7px dotted; margin: 2.5em 0em;">
-</div>
+<p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
 <a name="vi---ofensas"></a>
 ### VI - Ofensas
@@ -236,9 +210,7 @@ Atenciosamente,
 
 <!-- SEPARADOR -->
 
-<div align="center">
-  <hr width="10%" style="align: center; background-color: transparent; border-top: 7px dotted; margin: 2.5em 0em;">
-</div>
+<p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
 <a name="vii---críticas"></a>
 ### VII - Crítica(s)
@@ -247,9 +219,7 @@ Atenciosamente,
 
 <!-- SEPARADOR -->
 
-<div align="center">
-  <hr width="10%" style="align: center; background-color: transparent; border-top: 7px dotted; margin: 2.5em 0em;">
-</div>
+<p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
 <a name="viii---adicionando-amigos-ao-grupo"></a>
 ### VIII - Adicionando Amigo(s) ao Grupo
@@ -269,9 +239,7 @@ Atenciosamente,
 
 <!-- SEPARADOR -->
 
-<div align="center">
-  <hr width="10%" style="align: center; background-color: transparent; border-top: 7px dotted; margin: 2.5em 0em;">
-</div>
+<p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
 <a name="ix---bate-papo"></a>
 ### IX - Bate-papo
@@ -282,31 +250,27 @@ Atenciosamente,
 
 <!-- SEPARADOR -->
 
-<div align="center">
-  <hr width="10%" style="align: center; background-color: transparent; border-top: 7px dotted; margin: 2.5em 0em;">
-</div>
+<p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
 <a name="administradores-do-grupo"></a>
 ## ADMINISTRADORES DO GRUPO
 
-| **NOME**           | **LINK**                                  |
-| ------------------ | ----------------------------------------- |
-| Antonio Azevedo    | [/antonioazevedo][6]                      |
-| Antonio Martins    | [/antoniomartins.pessoal][7]              |
-| David Bitterman    | [/bitterman.david][8]                     |
-| Fábio Carvalho     | [/fabioac][9]                             |
-| Lauro R. Pontes    | [/lauro.rpontes][10]                      |
-| Lucas Menezes      | [/lucas.hipnose.acupuntura][11]           |
-| Samej Spenser      | [/SamejSpenser][12]                       |
-| Valdecy Carneiro   | [/ValdecyCarneiro][13]                    |
+| **NOME**            | **LINK**                                   |
+| :------------------ | :----------------------------------------- |
+| Antonio Azevedo     | [/antonioazevedo][6]                       |
+| Antonio Martins     | [/antoniomartins.pessoal][7]               |
+| David Bitterman     | [/bitterman.david][8]                      |
+| Fábio Carvalho      | [/fabioac][9]                              |
+| Lauro R. Pontes     | [/lauro.rpontes][10]                       |
+| Lucas Menezes       | [/lucas.hipnose.acupuntura][11]            |
+| Samej Spenser       | [/SamejSpenser][12]                        |
+| Valdecy Carneiro    | [/ValdecyCarneiro][13]                     |
 
 <p>&nbsp;</p>
 
 <!-- SEPARADOR -->
 
-<div align="center">
-  <hr width="10%" style="align: center; background-color: transparent; border-top: 7px dotted; margin: 2.5em 0em;">
-</div>
+<p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
 <a name="links-úteis-dos-membros-do-hipnose-prática"></a>
 ## LINKS ÚTEIS DOS MEMBROS DO HIPNOSE PRÁTICA
@@ -317,9 +281,7 @@ Atenciosamente,
 
 <!-- SEPARADOR -->
 
-<div align="center">
-  <hr width="10%" style="align: center; background-color: transparent; border-top: 7px dotted; margin: 2.5em 0em;">
-</div>
+<p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
 <a name="dicas"></a>
 ## DICAS
@@ -341,9 +303,7 @@ Atenciosamente,
 
 <!-- SEPARADOR -->
 
-<div align="center">
-  <hr width="10%" style="align: center; background-color: transparent; border-top: 7px dotted; margin: 2.5em 0em;">
-</div>
+<p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
 <a name="postagens-por-e-mail"></a>
 ## POSTAGENS POR E-MAIL
@@ -353,7 +313,7 @@ Para publicar uma postagem por e-mail, é bem simples: salve em sua agenda de co
 1. No campo "Assunto", adicione o "título" ou "chamada" da postagem;
 
 2. No "Corpo" da mensagem, adicione o texto que quer postar;  
-    1. Em se tratando de links, caso a palavra e/ou frase esteja(m) linkada(s), vai(ão) ser exibido(s) dessa forma: "<http://www.samejspenser.com.br/>" (sem as aspas), logo após o último caractere linkado no texto do e-mail;  
+    1. Em se tratando de links, caso a palavra e/ou frase esteja(m) linkada(s), vai(ão) ser exibido(s) dessa forma: `http://www.samejspenser.com.br`, logo após o último caractere linkado no texto do e-mail;  
     2. Em se tratando de link(s) direto(s), o link permanecerá "clicável", mas não exibirá alguma imagem de visualização, (caso haja);
 
 3. Para adicionar uma foto/imagem, é só anexar, (se estiver no corpo da mensagem, também vai aparecer, mas de uma forma "feia"!);
@@ -362,9 +322,7 @@ Para publicar uma postagem por e-mail, é bem simples: salve em sua agenda de co
 
 <!-- SEPARADOR -->
 
-<div align="center">
-  <hr width="10%" style="align: center; background-color: transparent; border-top: 7px dotted; margin: 2.5em 0em;">
-</div>
+<p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
 <a name="comentários-por-e-mail"></a>
 ## COMENTÁRIOS POR E-MAIL
@@ -375,9 +333,7 @@ Para publicar uma postagem por e-mail, é bem simples: salve em sua agenda de co
 
 <!-- SEPARADOR -->
 
-<div align="center">
-  <hr width="10%" style="align: center; background-color: transparent; border-top: 7px dotted; margin: 2.5em 0em;">
-</div>
+<p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
 <a name="observações"></a>
 ## OBSERVAÇÕES
@@ -386,7 +342,7 @@ Para publicar uma postagem por e-mail, é bem simples: salve em sua agenda de co
 
 - Cada nova edição na descrição e/ou regras do grupo, serão automaticamente publicadas no "Mural". Atente-se sempre para essas publicações e/ou alterações!
 
-- Os links deste texto/documento foram "encurtados" com a ferramenta online "Bitly", (`http://bitly.com/`), para melhor legibilidade, (salvo quando visível);
+- Os links deste texto/documento foram "encurtados" com a ferramenta online "Bitly", `http://bitly.com`, para melhor legibilidade, (salvo quando visível);
 
 - A ignorância ou má interpretação das regras não justifica a falta do seu cumprimento, nem isenta o(s) membro(s) das sanções nelas estabelecidas.
 
@@ -412,3 +368,8 @@ Para publicar uma postagem por e-mail, é bem simples: salve em sua agenda de co
 <!-- NOTAS DE FIM -->
 
 [^1]: **FAKE:** *falso*.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
