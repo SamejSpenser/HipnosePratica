@@ -293,7 +293,7 @@ Atenciosamente,
 
 Abaixo você encontra, — em ordem alfabética —, a lista de administradores do grupo Hipnose Prática.
 
-A exibição do link é o sufixo do link comum do Facebook: `https://facebook.com`. Clicando nos links abaixo, você será redirecionado(a) para o perfil adequado.
+A exibição como se vê é o sufixo do link comum do Facebook: `https://facebook.com`. Clicando nos links abaixo, você será redirecionado(a) para o perfil adequado.
 
 <p>&nbsp;</p>
 
