@@ -16,31 +16,31 @@
 
 <!-- MarkdownTOC depth=4 autolink=true bracket=round autoanchor=true style=unordered -->
 
-- [INTRODUÇÃO](#introducao)
+- [INTRODUÇÃO](#introdução)
   - [Importante](#importante)
   - [Sobre o grupo](#sobre-o-grupo)
   - [Explicando o motivo das regras](#explicando-o-motivo-das-regras)
-- [SEÇÃO I](#secao-i)
+- [SEÇÃO I](#seção-i)
   - [Publicidade em geral](#publicidade-em-geral)
-- [SEÇÃO II](#secao-ii)
+- [SEÇÃO II](#seção-ii)
   - [Perfil falso \(fake\)](#perfil-falso-fake)
-- [SEÇÃO III](#secao-iii)
+- [SEÇÃO III](#seção-iii)
   - [Atenha-se aos assuntos do grupo](#atenha-se-aos-assuntos-do-grupo)
-- [SEÇÃO IV](#secao-iv)
-  - [Postagem e comentário](#postagem-e-comentarios)
-- [SEÇÃO V](#secao-v)
-  - [Postagem humorística](#postagem-humoristica)
-- [SEÇÃO VI](#secao-vi)
+- [SEÇÃO IV](#seção-iv)
+  - [Postagem e comentário](#postagem-e-comentário)
+- [SEÇÃO V](#seção-v)
+  - [Postagem humorística](#postagem-humorística)
+- [SEÇÃO VI](#seção-vi)
   - [Ofensas](#ofensas)
-- [SEÇÃO VII](#secao-vii)
-  - [Crítica\(s\)](#criticas)
-- [SEÇÃO VIII](#secao-viii)
+- [SEÇÃO VII](#seção-vii)
+  - [Crítica\(s\)](#críticas)
+- [SEÇÃO VIII](#seção-viii)
   - [Adicionando amigo\(s\) ao grupo](#adicionando-amigos-ao-grupo)
-- [SEÇÃO IX](#secao-ix)
+- [SEÇÃO IX](#seção-ix)
   - [Bate-papo](#bate-papo)
 - [ADMINISTRADORES DO GRUPO](#administradores-do-grupo)
 - [DICAS](#dicas)
-- [OBSERVAÇÕES](#observacoes)
+- [OBSERVAÇÕES](#observações)
 - [NOTAS](#notas)
 
 <!-- /MarkdownTOC -->
@@ -49,7 +49,7 @@
 
 <p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
-<a name="introducao"></a>
+<a name="introdução"></a>
 ## INTRODUÇÃO
 
 Grupo de estudiosos e profissionais que se interessam pela Hipnose.
@@ -108,7 +108,7 @@ Atenciosamente,
 
 <p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
-<a name="secao-i"></a>
+<a name="seção-i"></a>
 ## SEÇÃO I
 
 <a name="publicidade-em-geral"></a>
@@ -142,7 +142,7 @@ Atenciosamente,
 
 <p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
-<a name="secao-ii"></a>
+<a name="seção-ii"></a>
 ## SEÇÃO II
 
 <a name="perfil-falso-fake"></a>
@@ -161,7 +161,7 @@ Atenciosamente,
 
 <p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
-<a name="secao-iii"></a>
+<a name="seção-iii"></a>
 ## SEÇÃO III
 
 <a name="atenha-se-aos-assuntos-do-grupo"></a>
@@ -175,10 +175,10 @@ Atenciosamente,
 
 <p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
-<a name="secao-iv"></a>
+<a name="seção-iv"></a>
 ## SEÇÃO IV
 
-<a name="postagem-e-comentarios"></a>
+<a name="postagem-e-comentário"></a>
 ### Postagem e comentário
 
 <!-- IMAGEM CENTRALIZADA -->
@@ -209,10 +209,10 @@ Atenciosamente,
 
 <p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
-<a name="secao-v"></a>
+<a name="seção-v"></a>
 ## SEÇÃO V
 
-<a name="postagem-humoristica"></a>
+<a name="postagem-humorística"></a>
 ### Postagem humorística
 
 1. <a id="V1"></a>Postagem(ns) (pura e simplesmente) “humorística(s)” será(ão) deletada(s). Um comentário engraçado, uma “piada” leve (nos comentários e desde que seja relativa ao tema da postagem) será(ão) **“RELEVADA(S)”**;
@@ -221,7 +221,7 @@ Atenciosamente,
 
 <p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
-<a name="secao-vi"></a>
+<a name="seção-vi"></a>
 ## SEÇÃO VI
 
 <a name="ofensas"></a>
@@ -237,10 +237,10 @@ Atenciosamente,
 
 <p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
-<a name="secao-vii"></a>
+<a name="seção-vii"></a>
 ## SEÇÃO VII
 
-<a name="criticas"></a>
+<a name="críticas"></a>
 ### Crítica(s)
 
 1. <a id="VII1"></a>Toda e qualquer crítica, (seja a um membro do grupo, postagem, comentário, opinião e etc.), deve ser respeitosa, — conforme [Seção VI][4] —, fundamentada, direcionada (nada de indiretas) e o(s) criticado(s) t(ê)m todo o direito de resposta;
@@ -249,7 +249,7 @@ Atenciosamente,
 
 <p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
-<a name="secao-viii"></a>
+<a name="seção-viii"></a>
 ## SEÇÃO VIII
 
 <a name="adicionando-amigos-ao-grupo"></a>
@@ -274,7 +274,7 @@ Atenciosamente,
 
 <p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
-<a name="secao-ix"></a>
+<a name="seção-ix"></a>
 ## SEÇÃO IX
 
 <a name="bate-papo"></a>
@@ -319,7 +319,7 @@ A exibição como se vê é o sufixo do link comum do Facebook: `https://faceboo
 
 - Planilha no Google Drive: [http://bit.ly/2cVGDDR][14];
 
-- Link para as Regras do grupo Hipnose Prática: [SamejSpenser.github.io/HipnosePratica][15].
+- Link para as Regras do grupo Hipnose Prática: [SamejSpenser.github.io/HipnosePratica/][15].
 
 <p>&nbsp;</p>
 
@@ -332,17 +332,6 @@ A exibição como se vê é o sufixo do link comum do Facebook: `https://faceboo
     <figcaption><small>[4] Configurações de notificações</small></figcaption>
   </figure>
 </div>
-
-
-<!-- IMAGEM CENTRALIZADA
-
-<div align="center">
-  <figure align="center">
-    <img width="100%" height="auto" alt="SCREENSHOT: opções das configurações de notificações do grupo." src="https://github.com/SamejSpenser/HipnosePratica/blob/master/images/regras-hp-003.png?raw=true">
-
-    <figcaption><small>[4] Configurações de notificações</small></figcaption>
-  </figure>
-</div> -->
 
 <!-- SEPARADOR -->
 
@@ -367,21 +356,11 @@ A exibição como se vê é o sufixo do link comum do Facebook: `https://faceboo
 
 <div align="center">
   <figure align="center">
-    <img width="100%" height="auto" alt="SCREENSHOT: opções das configurações de notificações do grupo." src="https://github.com/SamejSpenser/HipnosePratica/blob/master/images/regras-hp-003.png?raw=true">
+    <img width="100%" height="auto" alt="FOTO: Rapaz falando ao megafone, que encontra-se literalmente enconstado na orelha de uma moça, que demonstra extremo incômodo." src="https://github.com/SamejSpenser/HipnosePratica/blob/master/images/caps-lock-eh-mais-ou-menos-assim-001.jpg?raw=true">
 
-    <figcaption><small>[4] Configurações de notificações</small></figcaption>
+    <figcaption><small>Quando você utiliza o CAPS LOCK ativado…</small></figcaption>
   </figure>
 </div>
-
-<!-- IMAGEM CENTRALIZADA
-
-<div align="center">
-  <figure align="center">
-    <img width="100%" height="auto" alt="SCREENSHOT: opções das configurações de notificações do grupo." src="https://github.com/SamejSpenser/HipnosePratica/blob/master/images/regras-hp-003.png?raw=true">
-
-    <figcaption><small>[4] Configurações de notificações</small></figcaption>
-  </figure>
-</div> -->
 
 <p>&nbsp;</p>
 
@@ -391,7 +370,7 @@ A exibição como se vê é o sufixo do link comum do Facebook: `https://faceboo
 
 <p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
 
-<a name="observacoes"></a>
+<a name="observações"></a>
 ## OBSERVAÇÕES
 
 - As regras do grupo podem ser alteradas a qualquer momento e sem prévio aviso;
@@ -413,7 +392,7 @@ A exibição como se vê é o sufixo do link comum do Facebook: `https://faceboo
 [1]: #perfil-falso-fake "Confira o parágrafo. Clique aqui."
 [2]: https://medium.com/p/43f21ab97931 "A Comunicação e Sua Importância — Hipnose Prática | Medium"
 [3]: https://translate.google.com/ "Google Tradutor"
-[4]: #secao-iv
+[4]: #seção-iv
 [5]: http://www.facebook.com/groups/hipnose/ "Grupo “Hipnose Prática” | Facebook"
 [6]: https://fb.com/antonioazevedo "Antonio Azevedo | Facebook"
 [7]: https://fb.com/antoniomartins.pessoal "Antonio Martins | Facebook"
@@ -458,8 +437,6 @@ A exibição como se vê é o sufixo do link comum do Facebook: `https://faceboo
 <!-- [5] NOTA DE FIM -->
 
 <sup id="ftn5"><strong>5</strong></sup> No meu caso, — ~~e apenas~~ por ser administrador do grupo —, optei por receber *todas as notificações*, como é possível observar no screenshot. [↩](#ftnRet5)
-
-
 
 <p>&nbsp;</p>
 
