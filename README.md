@@ -333,6 +333,17 @@ A exibição como se vê é o sufixo do link comum do Facebook: `https://faceboo
   </figure>
 </div>
 
+
+<!-- IMAGEM CENTRALIZADA
+
+<div align="center">
+  <figure align="center">
+    <img width="100%" height="auto" alt="SCREENSHOT: opções das configurações de notificações do grupo." src="https://github.com/SamejSpenser/HipnosePratica/blob/master/images/regras-hp-003.png?raw=true">
+
+    <figcaption><small>[4] Configurações de notificações</small></figcaption>
+  </figure>
+</div> -->
+
 <!-- SEPARADOR -->
 
 <p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226; &#8226; &#8226;</strong></p>
