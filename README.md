@@ -298,7 +298,7 @@ A exibição como se vê é o sufixo do link comum do Facebook: `https://faceboo
 <p>&nbsp;</p>
 
 |     **NOME**     |            **LINK**             |
-| :--------------- | :------------------------------ |
+| ---------------- | ------------------------------- |
 | Antonio Azevedo  | [/antonioazevedo][6]            |
 | Antonio Martins  | [/antoniomartins.pessoal][7]    |
 | David Bitterman  | [/bitterman.david][8]           |
