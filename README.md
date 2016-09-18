@@ -1,4 +1,4 @@
-<!-- REGRAS DO GRUPO HIPNOSE PRÁTICA ~ PUBLICADO EM 2012/06/17 ~ ATUALIZADO EM 2016/09/17 -->
+<!-- REGRAS DO GRUPO HIPNOSE PRÁTICA ~ PUBLICADO EM 2012/06/17 ~ ATUALIZADO EM 2016/09/18 -->
 
 <!-- IMAGEM CENTRALIZADA -->
 
@@ -91,7 +91,7 @@ A finalidade deste grupo é a disseminação do conhecimento da Hipnose ao públ
 <a name="explicando-o-motivo-das-regras"></a>
 ### Explicando o motivo das regras
 
-Membro(s) do grupo Hipnose Prática, (e interessados em aderir ao grupo), estas são as ~~(novas)~~ regras que passam a vigorar a partir da data de sua publicação, (17/06/2012, atualizadas dia 17/09/2016).
+Membro(s) do grupo Hipnose Prática, (e interessados em aderir ao grupo), estas são as ~~(novas)~~ regras que passam a vigorar a partir da data de sua publicação, (17/06/2012, atualizadas dia 18/09/2016).
 
 Devido a “mal-entendidos” ocorridos anteriormente, eu, [Samej Spenser][17], na função de administrador deste grupo, (pura e simplesmente por ter criado o grupo a partir do meu perfil), me vi obrigado a suspender temporariamente novas publicações no grupo numa “tentativa” de conter novos “desentendimentos”. Pensei bastante sobre o que fazer para “amenizar” a situação ~~e confesso que quase deletei o grupo~~. Depois de conversar com algumas pessoas, e de receber o feedback de alguns membros por mensagens inbox, optei por incluir (mais) moderadores para me auxiliarem no “controle” e “manutenção” do grupo.
 
@@ -367,11 +367,21 @@ A exibição como se vê é o sufixo do link comum do Facebook: `https://faceboo
 
 <div align="center">
   <figure align="center">
-    <img width="80%" height="auto" alt="FOTO: Rapaz falando ao megafone, que encontra-se literalmente enconstado na orelha de uma moça, que demonstra extremo incômodo." src="https://github.com/SamejSpenser/HipnosePratica/blob/master/images/caps-lock-eh-mais-ou-menos-assim-001.jpg?raw=true">
+    <img width="100%" height="auto" alt="SCREENSHOT: opções das configurações de notificações do grupo." src="https://github.com/SamejSpenser/HipnosePratica/blob/master/images/regras-hp-003.png?raw=true">
 
-    <figcaption><small>Quando você utiliza o CAPS LOCK ativado…</small></figcaption>
+    <figcaption><small>[4] Configurações de notificações</small></figcaption>
   </figure>
 </div>
+
+<!-- IMAGEM CENTRALIZADA
+
+<div align="center">
+  <figure align="center">
+    <img width="100%" height="auto" alt="SCREENSHOT: opções das configurações de notificações do grupo." src="https://github.com/SamejSpenser/HipnosePratica/blob/master/images/regras-hp-003.png?raw=true">
+
+    <figcaption><small>[4] Configurações de notificações</small></figcaption>
+  </figure>
+</div> -->
 
 <p>&nbsp;</p>
 
