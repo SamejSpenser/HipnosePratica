@@ -132,7 +132,7 @@ Atenciosamente,
 
 4. <a id="I4"></a>Texto(s) “bonitinho(s)”, mensagem(ns) de “bom dia” e etc., que estiver(em) ocultando propaganda(s) será(ão) deletada(s) imediatamente, valendo o mesmo que o [*§* 2 da Seção I](#I2);
 
-5. <a id="I5"></a><!-- [2] NOTA DE FIM --> Caso possua um Blog/Site, Página no Facebook, Twitter, Fórum e etc., que fale/trate sobre [Auto-Hipnose][20],<sup id="ftnRet2">[2](#ftn2)</sup> [Hipnose][18], [PNL][19], Letargia, EFT, e outros temas relativos, (desde que tratados de forma “séria”), envie uma **MENSAGEM PRIVADA** (inbox) para um dos moderadores, para que este inclua o(s) respectivo(s) link(s) na planilha do grupo Hipnose Prática;  
+5. <a id="I5"></a>Caso possua um Blog/Site, Página no Facebook, Twitter, Fórum e etc., que fale/trate sobre [Auto-Hipnose][20],<sup id="ftnRet2">[2](#ftn2)</sup> [Hipnose][18], [PNL][19], Letargia, EFT, e outros temas relativos, (desde que tratados de forma “séria”), envie uma **MENSAGEM PRIVADA** (inbox) para um dos moderadores, para que este inclua o(s) respectivo(s) link(s) na planilha do grupo Hipnose Prática;  
     1. <a id="I5i"></a>Esta planilha será ordenada alfabeticamente pelo nome do perfil do membro, (caso altere o nome no seu perfil, informe um dos moderadores para que a alteração na planilha seja efetuada);  
     2. <a id="I5ii"></a>O membro se compromete a fornecer o endereço (link) correto;  
     3. <a id="I5iii"></a>Esta planilha será disponibilizada através de um link de visualização no Google Drive. [Este link se encontra no final deste texto/documento][21] para a simples conferência de qualquer membro do grupo;  
