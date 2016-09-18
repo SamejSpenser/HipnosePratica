@@ -153,7 +153,7 @@ Atenciosamente,
 1. <a id="II1"></a>Perfil(is) que for(em) identificado(s) e/ou comprovado(s) como falso(s) ou “fake(s)”, serão banidos e bloqueados permanentemente e/ou terão sua solicitação de participação negada;  
     1. <a id="II1i"></a>O mesmo vale para contas com menos de um ano no facebook, e/ou que esteja participando em mais de trinta grupos;<sup id="ftnRet3">[3](#ftn3)</sup>
 
-2. <a id="II2"></a><!-- [4] NOTA DE FIM --> Perfil(is) com o nome de empresa, negócio e etc., será(ão) recusado(s) e/ou removido(s) do grupo;<sup id="ftnRet4">[4](#ftn4)</sup>
+2. <a id="II2"></a>Perfil(is) com o nome de empresa, negócio e etc., será(ão) recusado(s) e/ou removido(s) do grupo;<sup id="ftnRet4">[4](#ftn4)</sup>
 
 3. <a id="II3"></a>Ao(s) interessado(s) em participar do grupo que não tiver(em) um “mínimo” de informação sobre si na descrição de seu(s) próprio(s) perfil(is), terá(ão) maior(es) chance(s) de ser(em) interpretado(s) como “fake(s)”.
 
@@ -291,6 +291,12 @@ Atenciosamente,
 <a name="administradores-do-grupo"></a>
 ## ADMINISTRADORES DO GRUPO
 
+Abaixo você encontra, — em ordem alfabética —, a lista de administradores do grupo Hipnose Prática.
+
+A exibição do link é o sufixo do link comum do Facebook: `https://facebook.com`. Clicando nos links abaixo, você será redirecionado(a) para o perfil adequado.
+
+<p>&nbsp;</p>
+
 |     **NOME**     |            **LINK**             |
 | :--------------- | :------------------------------ |
 | Antonio Azevedo  | [/antonioazevedo][6]            |
@@ -313,7 +319,7 @@ Atenciosamente,
 
 - Planilha no Google Drive: [http://bit.ly/2cVGDDR][14];
 
-- Link para as Regras do grupo Hipnose Prática: [SamejSpenser.github.io/HipnosePratica/][15].
+- Link para as Regras do grupo Hipnose Prática: [SamejSpenser.github.io/HipnosePratica][15].
 
 <p>&nbsp;</p>
 
