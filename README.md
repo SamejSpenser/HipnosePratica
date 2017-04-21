@@ -2,11 +2,9 @@
 
 <!-- IMAGEM CENTRALIZADA -->
 
-<div align="center">
-  <figure align="center">
-    <img width="100%" height="auto" alt="LOGOTIPO DO GRUPO HIPNOSE PRÁTICA: “Hipnose Prática, compartilhando conhecimento”" src="https://raw.githubusercontent.com/SamejSpenser/HPnews/master/images/logo-hp-landscape-3892x1440px.png?raw=true">
-  </figure>
-</div>
+<span class="text-center">![LOGOTIPO DO GRUPO HIPNOSE PRÁTICA: “Hipnose Prática, compartilhando conhecimento”][IMG001]</span>
+
+[IMG001]: https://github.com/SamejSpenser/HipnosePratica/blob/master/images/logo-hp-landscape-3892x1440px.png
 
 # Regras do Grupo Hipnose Prática
 
