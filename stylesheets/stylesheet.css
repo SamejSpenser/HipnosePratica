@@ -879,3 +879,188 @@ footer a:hover {
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
 
+
+
+/* ADIÇÃO DE SAMEJ SPENSER ~ INÍCIO */
+
+.rodape {
+    color: inherit;
+    display: block;
+    font-size: 0.80em !important;
+    font-stretch: condensed;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left !important;
+    text-decoration: none !important;
+    text-indent: 0 !important;
+}
+
+.text-capitular {
+    color: inherit;
+    display: block;
+    font-size: 1em !important;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify !important;
+    text-decoration: none !important;
+    text-indent: 0 !important;
+}
+
+.text-center {
+    color: inherit;
+    display: block;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center !important;
+    text-decoration: none;
+    text-indent: 0 !important;
+}
+
+.text-dir {
+    color: inherit;
+    display: block;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: right !important;
+    text-decoration: none;
+    text-indent: 0 !important;
+}
+
+.text-esq {
+    color: inherit;
+    display: block;
+    float: left !important;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding: 5px;
+    text-align: left !important;
+    text-decoration: none;
+    text-indent: 0 !important;
+}
+
+/* -- CLASS P/ SEPARADOR DE SECOES/BLOCOS
+Geralmente utilizado da seguinte forma:
+"<p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226;</strong></p>"
+-- */
+.sep {
+    line-height: 1.2;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-size: 150% !important;
+    font-weight: bold !important;
+    text-align: center !important;
+    text-indent: 0 !important;
+}
+
+/* -- CLASS P/ SEPARADOR (MENOR) DE SECOES/BLOCOS
+Geralmente utilizado da seguinte forma:
+"<p align="center" class="sep-menor">&#8226; &#8226; &#8226; &#8226; &#8226;</p>"
+-- */
+
+.sep-menor {
+    line-height: 1.2;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-size: 80% !important;
+    font-weight: bold !important;
+    text-align: center !important;
+    text-indent: 0 !important;
+}
+
+/* CLASS P/ ALINHAMENTO DE IMAGENS */
+.meio {
+    text-align: center !important;
+    text-indent: 0 !important;
+    margin: auto;
+    display: block;
+    padding: 5px;
+}
+
+.dire {
+    float: right !important;
+    padding: 5px;
+}
+
+.esqu {
+    float: left !important;
+    padding: 5px;
+}
+
+.meia-altura { 
+    max-height: 50%; 
+}
+
+small, sup, sub {
+    font-size: 75% !important;
+}
+
+/* DESCRICAO SEM LINK */
+abbr, .temdes {
+    cursor: help !important;
+    border-bottom: 1px dashed #cccccc !important;
+}
+
+/* DIVIDIR TEXTO EM 3 COLUNAS */
+.trescol {
+    column-count: 3;
+    -moz-column-count: 3;
+    column-gap: 15px;
+    -moz-column-gap: 10px;
+    column-rule: 2px solid #3E85C6;
+    -moz-column-rule: 2px solid #3E85C6;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 10px;
+    -webkit-column-rule: 2px solid #3E85C6;
+}
+
+/* ID P/ DIVIDIR TEXTO EM 2 COLUNAS */
+.duascol {
+    column-count: 2;
+    -moz-column-count: 2;
+    column-gap: 10px;
+    -moz-column-gap: 10px;
+    column-rule: 2px solid #3E85C6;
+    -moz-column-rule: 2px solid #3E85C6;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 10px;
+    -webkit-column-rule: 2px solid #3E85C6;
+}
+
+
+
+/* ADIÇÃO DE SAMEJ SPENSER ~ FINAL */
+
+
