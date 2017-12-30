@@ -883,6 +883,54 @@ footer a:hover {
 
 /* ADIÇÃO DE SAMEJ SPENSER ~ INÍCIO */
 
+/* CSS GENERICO PARA ARQUIVOS MARKDOWN ~ ATUALIZADO EM 2017/12/27
+
+- LINK NO DROPBOX: "https://www.dropbox.com/s/migjxzkp82d3fue/stylesheet-geral.css" 
+
+- LINK NO GITHUB: "https://github.com/SamejSpenser/HPnews/blob/master/stylesheet-geral.css" */
+
+/* FONTE ARCHITECT'S DAUGHTER */
+architect {
+    font-family: "Architects Daughter" !important;
+}
+
+.architect {
+    font-family: "Architects Daughter" !important;
+}
+
+.capitular {
+    float: left !important;
+    font-size: 3em; /* FONT-SIZE ORIGINAL: 2em */
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: -0.25em;
+    margin-right: 0.1em;
+}
+
+.capitular-italic {
+    float: left !important;
+    font-size: 3em; /* FONT-SIZE ORIGINAL: 2em */
+    font-style: italic;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: -0.4em;
+    margin-right: 0.1em;
+    margin-top: -0.2em;
+}
+
+.footnote-link {
+    font-size: 75% !important;
+    font-style: normal;
+    line-height: 1.2;
+}
+
+.footnote-link1 {
+    font-size: 1em !important;
+    font-style: normal;
+    line-height: 1.2;
+}
+
 .rodape {
     color: inherit;
     display: block;
@@ -975,12 +1023,13 @@ footer a:hover {
 Geralmente utilizado da seguinte forma:
 "<p align="center" class="sep center meio"><strong>&#8226; &#8226; &#8226;</strong></p>"
 -- */
+
 .sep {
-    line-height: 1.2;
-    margin-top: 1em;
-    margin-bottom: 1em;
     font-size: 150% !important;
     font-weight: bold !important;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-top: 1em;
     text-align: center !important;
     text-indent: 0 !important;
 }
@@ -991,72 +1040,212 @@ Geralmente utilizado da seguinte forma:
 -- */
 
 .sep-menor {
-    line-height: 1.2;
-    margin-top: 1em;
-    margin-bottom: 1em;
     font-size: 80% !important;
     font-weight: bold !important;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-top: 1em;
     text-align: center !important;
     text-indent: 0 !important;
 }
 
-/* CLASS P/ ALINHAMENTO DE IMAGENS */
-.meio {
+.sep-line {
+    margin: auto !important;
     text-align: center !important;
-    text-indent: 0 !important;
-    margin: auto;
+    width: 30% !important;
+}
+
+/* CLASS P/ ALINHAMENTO DE IMAGENS ~ CENTRALIZADO */
+
+.meio, .meio50, .meio45, .meio40, .meio35, .meio30, .meio25, .meio20, .meio15, .meio10 {
     display: block;
+    margin: auto;
+    max-height: auto !important;
+    max-width: auto !important;
     padding: 5px;
+    text-align: center !important;
+    text-indent: 0 !important;
 }
 
-.dire {
+.meio50 {
+    max-width: 50% !important;
+}
+
+.meio45 {
+    max-width: 45% !important;
+}
+
+.meio40 {
+    max-width: 40% !important;
+}
+
+.meio35 {
+    max-width: 35% !important;
+}
+
+.meio30 {
+    max-width: 30% !important;
+}
+
+.meio25 {
+    max-width: 25% !important;
+}
+
+.meio20 {
+    max-width: 20% !important;
+}
+
+.meio15 {
+    max-width: 15% !important;
+}
+
+.meio10 {
+    max-width: 10% !important;
+}
+
+/* CLASS P/ ALINHAMENTO DE IMAGENS ~ DIREITA */
+
+.dire, .dire50, .dire45, .dire40, .dire35, .dire30, .dire25, .dire20, .dire15, .dire10 {
     float: right !important;
+    max-height: auto !important;
     padding: 5px;
+    text-align: center !important;
+    text-indent: 0 !important;
 }
 
-.esqu {
+.dire50 {
+    max-width: 50% !important;
+}
+
+.dire45 {
+    max-width: 45% !important;
+}
+
+.dire40 {
+    max-width: 40% !important;
+}
+
+.dire35 {
+    max-width: 35% !important;
+}
+
+.dire30 {
+    max-width: 30% !important;
+}
+
+.dire25 {
+    max-width: 25% !important;
+}
+
+.dire20 {
+    max-width: 20% !important;
+}
+
+.dire15 {
+    max-width: 15% !important;
+}
+
+.dire10 {
+    max-width: 10% !important;
+}
+
+/* CLASS P/ ALINHAMENTO DE IMAGENS ~ ESQUERDA */
+
+.esqu, .esqu50, .esqu45, .esqu40, .esqu35, .esqu30, .esqu25, .esqu20, .esqu15, .esqu10 {
     float: left !important;
+    max-height: auto !important;
     padding: 5px;
+    text-align: center !important;
+    text-indent: 0 !important;
 }
 
-.meia-altura { 
-    max-height: 50%; 
+.esqu50 {
+    max-width: 50% !important;
+}
+
+.esqu45 {
+    max-width: 45% !important;
+}
+
+.esqu40 {
+    max-width: 40% !important;
+}
+
+.esqu35 {
+    max-width: 35% !important;
+}
+
+.esqu30 {
+    max-width: 30% !important;
+}
+
+.esqu25 {
+    max-width: 25% !important;
+}
+
+.esqu20 {
+    max-width: 20% !important;
+}
+
+.esqu15 {
+    max-width: 15% !important;
+}
+
+.esqu10 {
+    max-width: 10% !important;
 }
 
 small, sup, sub {
     font-size: 75% !important;
 }
 
-/* DESCRICAO SEM LINK */
-abbr, .temdes {
-    cursor: help !important;
-    border-bottom: 1px dashed #cccccc !important;
+h1, h2 {
+    text-align: center !important;
+    text-indent: 0em !important;
 }
 
-/* DIVIDIR TEXTO EM 3 COLUNAS */
-.trescol {
-    column-count: 3;
-    -moz-column-count: 3;
-    column-gap: 15px;
-    -moz-column-gap: 10px;
-    column-rule: 2px solid #3E85C6;
-    -moz-column-rule: 2px solid #3E85C6;
-    -webkit-column-count: 3;
-    -webkit-column-gap: 10px;
-    -webkit-column-rule: 2px solid #3E85C6;
+h3 {
+    text-align: left;
+}
+
+h4 {
+    font-style: italic;
+    text-align: left;
+}
+
+/* DESCRICAO SEM LINK */
+
+abbr, .temdes {
+    border-bottom: 1px dashed #cccccc !important;
+    cursor: help !important;
 }
 
 /* ID P/ DIVIDIR TEXTO EM 2 COLUNAS */
+
 .duascol {
-    column-count: 2;
     -moz-column-count: 2;
-    column-gap: 10px;
     -moz-column-gap: 10px;
-    column-rule: 2px solid #3E85C6;
     -moz-column-rule: 2px solid #3E85C6;
     -webkit-column-count: 2;
     -webkit-column-gap: 10px;
     -webkit-column-rule: 2px solid #3E85C6;
+    column-count: 2;
+    column-gap: 10px;
+    column-rule: 2px solid #3E85C6;
+}
+
+/* DIVIDIR TEXTO EM 3 COLUNAS */
+
+.trescol {
+    -moz-column-count: 3;
+    -moz-column-gap: 10px;
+    -moz-column-rule: 2px solid #3E85C6;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 10px;
+    -webkit-column-rule: 2px solid #3E85C6;
+    column-count: 3;
+    column-gap: 15px;
+    column-rule: 2px solid #3E85C6;
 }
 
 
